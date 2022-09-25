@@ -1,15 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Angelillo15&text2=Java%20developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-- 👋 Hi, I’m @Angelillo15
+- 👋 Hi there, I’m @zNotRafa
 - 👀 I’m interested in Minecraft Servers Configuration.
 
 - Discord: zNotRafa#6367
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zNotRafa&theme=nightowl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zNotRafa&layout=compact&theme=nightowl)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zNotRafa&layout=compact&theme=nightowl)](https://angelillo15.es)
-
-![](https://komarev.com/ghpvc/?username=zNotRafa&color=blueviolet)
 
 
 Now listening on Spotify:
