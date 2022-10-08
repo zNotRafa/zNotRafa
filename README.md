@@ -4,4 +4,4 @@
 - Discord: zNotRafa#6367
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zNotRafa&theme=nightowl&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zNotRafa&theme=radical&hide_border=true)
